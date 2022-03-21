@@ -1,5 +1,9 @@
 # s4-maths_jeu
 
+### Resources
+
+- [Random in JS](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+
 ## Project setup
 ```
 yarn install
